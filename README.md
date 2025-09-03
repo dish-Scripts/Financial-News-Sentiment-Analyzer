@@ -1,3 +1,5 @@
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://financial-news-sentiment-analyzer-xpbkqwscibrwxvuihhvx5f.streamlit.app/)
+
 # Financial News Sentiment Analyzer
 
 ## 🎯 Project Goal
